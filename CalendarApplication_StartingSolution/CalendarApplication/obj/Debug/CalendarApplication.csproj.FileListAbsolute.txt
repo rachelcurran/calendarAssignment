@@ -1,0 +1,5 @@
+C:\Users\rache_000\Desktop\CalendarApplication_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.exe.config
+C:\Users\rache_000\Desktop\CalendarApplication_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.csprojResolveAssemblyReference.cache
+C:\Users\rache_000\Desktop\CalendarApplication_StartingSolution\CalendarApplication\obj\Debug\Calendar.MainForm.resources
+C:\Users\rache_000\Desktop\CalendarApplication_StartingSolution\CalendarApplication\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\rache_000\Desktop\CalendarApplication_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.csproj.GenerateResource.Cache
